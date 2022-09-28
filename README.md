@@ -1,7 +1,7 @@
 # Ping pong game using Html,Css an Js :video_game:
 * To play this game, you can visit the site => https://includesid.github.io/JavaScript-Mini-Project-using-html-css-js-/
 
-* For playing this game, you need to checkout the controls :\
+* For playing this game, you need to checkout the controls :
 
     For player 1 => **UP arrow key** :arrow_up: , **DOWN arrow key** :arrow_down:\
     For player 2 => **W** alphabet key :arrow_up: , **S** alphabet key :arrow_down:
